@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naimul Hasan Shadesh</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdshadesh&label=Profile%20views&color=0e75b6&style=flat" alt="mdshadesh" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -45,3 +44,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdshadesh&show_icons=true&locale=en" alt="mdshadesh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdshadesh&" alt="mdshadesh" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdshadesh&label=Profile%20views&color=0e75b6&style=flat" alt="mdshadesh" /> </p>
+
