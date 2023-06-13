@@ -1,7 +1,7 @@
 <p align="center">
   <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
-  <h2 align="center">GitHub Profile Trophy</h2>
-  <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your readme</p>
+  <h2 align="center">GitHub Profile Naimul Hasan Shadesh</h2>
+  <p align="center">🏆 Programming is the art of algorithm design and the craft of debugging errant code.</p>
 </p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
@@ -24,7 +24,7 @@
   </a>
 </p>
 <p align="center">
-  You can use this service for free. I'm looking for sponsors to help us keep up with this service❤️
+ Programmers seem to be changing the world. It would be a relief, for them and for all of us, if they knew something about it.❤️
 </p>
 <p align="center">
   <a href="https://github.com/sponsors/ryo-ma">
