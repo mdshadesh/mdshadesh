@@ -4,17 +4,17 @@
   <p align="center">🏆 Programming is the art of algorithm design and the craft of debugging errant code.</p>
 </p>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
+  <a href="https://github.com/mdshadesh/github-profile-trophy/issues">
     <img src="https://img.shields.io/github/issues/ryo-ma/github-profile-trophy"/> 
   </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
-    <img src="https://img.shields.io/github/forks/ryo-ma/github-profile-trophy"/> 
+  <a href="https://github.com/mdshadesh/github-profile-trophy/network/members">
+    <img src="https://img.shields.io/github/forks/mdshadesh/github-profile-trophy"/> 
   </a>  
-  <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
-    <img src="https://img.shields.io/github/stars/ryo-ma/github-profile-trophy"/> 
+  <a href="https://github.com/mdshadesh/github-profile-trophy/stargazers">
+    <img src="https://img.shields.io/github/stars/mdshadesh/github-profile-trophy"/> 
   </a>
-    <a href="https://github.com/ryo-ma/github-profile-trophy/LICENSE">
-    <img src="https://img.shields.io/github/license/ryo-ma/github-profile-trophy"/> 
+    <a href="https://github.com/mdshadesh/github-profile-trophy/LICENSE">
+    <img src="https://img.shields.io/github/license/mdshadesh/github-profile-trophy"/> 
   </a>
 </p>
 <p align="center">
@@ -27,7 +27,7 @@
  Programmers seem to be changing the world. It would be a relief, for them and for all of us, if they knew something about it.❤️
 </p>
 <p align="center">
-  <a href="https://github.com/sponsors/ryo-ma">
+  <a href="https://github.com/sponsors/mdshadesh">
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
   </a>
 </p>
