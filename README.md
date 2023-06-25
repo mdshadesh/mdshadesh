@@ -7,15 +7,7 @@
   <a href="https://github.com/mdshadesh/github-profile-trophy/issues">
     <img src="https://img.shields.io/github/issues/ryo-ma/github-profile-trophy"/> 
   </a>
-  <a href="https://github.com/mdshadesh/github-profile-trophy/network/members">
-    <img src="https://img.shields.io/github/forks/mdshadesh/github-profile-trophy"/> 
-  </a>  
-  <a href="https://github.com/mdshadesh/github-profile-trophy/stargazers">
-    <img src="https://img.shields.io/github/stars/mdshadesh/github-profile-trophy"/> 
-  </a>
-    <a href="https://github.com/mdshadesh/github-profile-trophy/LICENSE">
-    <img src="https://img.shields.io/github/license/mdshadesh/github-profile-trophy"/> 
-  </a>
+ 
 </p>
 <p align="center">
   </a>
